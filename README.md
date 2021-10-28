@@ -1,4 +1,4 @@
-# uRand
+# anyrandom
 
 anyrandom is a npm package to generate anything random.
 
@@ -19,17 +19,17 @@ console.log(number(41)); // 41 being the max number
 ### Random Letter🔡
 
 ```javascript
-const { char } = require("anyrandom");
+const { letter } = require("anyrandom");
 
-console.log(char.letter());
+console.log(letter());
 ```
 
 ### Random Character🔠
 
 ```javascript
-const { char } = require("anyrandom");
+const { character } = require("anyrandom");
 
-console.log(char.character());
+console.log(character());
 ```
 
 ### Random String🧵
