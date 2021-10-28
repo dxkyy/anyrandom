@@ -1,4 +1,4 @@
-# uRand
+# anyRandom
 
 anyrandom is a npm package to generate anything random.
 
