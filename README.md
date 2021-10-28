@@ -1,4 +1,4 @@
-# anyRandom
+# [anyRandom](https://www.npmjs.com/package/anyrandom)
 
 anyrandom is a npm package to generate anything random.
 
